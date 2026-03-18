@@ -1,5 +1,0 @@
-Name=Li
-Instrument=DSP 7265
-GPIB=12
-channels=[False, False, True, True, False, False, False, False]
-

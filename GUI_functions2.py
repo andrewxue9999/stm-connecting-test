@@ -15,7 +15,6 @@ class GUI_functions:
         self.dic_sweep =  ['Same direction', 'Raster']
         self.dic_instr = ['None']
         self.dic_instr.extend(dic_instr)
-        print(self.dic_instr)
         self.fields = ['Internal Reference','ch1 display','ch2 display','Frequency','Amplitude','Time constant','Increase sensitivity','Decrease sensitivity']
         self.K_field = ['Disable','Output', 'Mode', 'Compliance', 'Range', 'Sweep To']
         self.K2450_field = ['Disable','Output', 'Mode', 'Reading mode', 'Compliance', 'Range', 'Sweep To']
